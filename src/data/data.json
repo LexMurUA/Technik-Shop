@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "code": 1001,
+    "name": "iPhone 13",
+    "vendor": "Apple",
+    "price": 300,
+    "description": "Флагманский смартфон с отличной камерой и производительностью.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 2,
+    "code": 1002,
+    "name": "Galaxy S21",
+    "vendor": "Samsung",
+    "price": 325,
+    "description": "Удобный флагман с AMOLED‑дисплеем и мощным чипом.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 1003,
+    "name": "Pixel 6",
+    "vendor": "Google",
+    "price": 350,
+    "description": "Отличные фото и чистый Android от Google.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 1004,
+    "name": "Xperia 5",
+    "vendor": "Sony",
+    "price": 375,
+    "description": "Компактный телефон с киноэкраном 21:9.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 1005,
+    "name": "OnePlus 9",
+    "vendor": "OnePlus",
+    "price": 400,
+    "description": "Быстрая зарядка и сбалансированная система.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 1006,
+    "name": "Mi 11",
+    "vendor": "Xiaomi",
+    "price": 425,
+    "description": "Высокая производительность по доступной цене.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 1007,
+    "name": "Redmi Note 11",
+    "vendor": "Xiaomi",
+    "price": 450,
+    "description": "Бюджетный, но с хорошей камерой и батареей.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 1008,
+    "name": "A52",
+    "vendor": "Samsung",
+    "price": 475,
+    "description": "Сбалансированный средний класс с OLED-дисплеем.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 9,
+    "code": 1009,
+    "name": "Moto G Power",
+    "vendor": "Motorola",
+    "price": 500,
+    "description": "Долгая работа от батареи – до 3 дней.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 10,
+    "code": 1010,
+    "name": "Nokia G50",
+    "vendor": "Nokia",
+    "price": 525,
+    "description": "Прочный телефон с поддержкой 5G.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 1011,
+    "name": "Poco X4 Pro",
+    "vendor": "POCO",
+    "price": 550,
+    "description": "Решение для геймеров: мощный чип и экран 120 Гц.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 12,
+    "code": 1012,
+    "name": "Huawei P50",
+    "vendor": "Huawei",
+    "price": 575,
+    "description": "Камеры Leica и яркий экран.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 1013,
+    "name": "Zenfone 8",
+    "vendor": "Asus",
+    "price": 600,
+    "description": "Компактный флагман с 5.9″ экраном.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 14,
+    "code": 1014,
+    "name": "Realme GT",
+    "vendor": "Realme",
+    "price": 625,
+    "description": "Производительность флагмана по цене среднего класса.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 15,
+    "code": 1015,
+    "name": "OPPO Reno 8",
+    "vendor": "OPPO",
+    "price": 650,
+    "description": "Стильный дизайн и быстрая зарядка.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 1016,
+    "name": "Vivo V23",
+    "vendor": "Vivo",
+    "price": 675,
+    "description": "Яркий дизайн и селфи‑камера на 50 Мп.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 17,
+    "code": 1017,
+    "name": "TCL 20 Pro",
+    "vendor": "TCL",
+    "price": 700,
+    "description": "Экран NXTVISION и стильный стеклянный корпус.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 18,
+    "code": 1018,
+    "name": "Fairphone 4",
+    "vendor": "Fairphone",
+    "price": 725,
+    "description": "Экологичный телефон с модульным дизайном.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 19,
+    "code": 1019,
+    "name": "BlackBerry Key3",
+    "vendor": "BlackBerry",
+    "price": 750,
+    "description": "Телефон с физической клавиатурой для любителей классики.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_front_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefront_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontl30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicefrontr30_titaniumblack_241107.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/s/m/sm-s938_galaxys25ultra_devicepenfront_titaniumblack_241107.jpg/f_auto"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 1020,
+    "name": "LG Velvet",
+    "vendor": "LG",
+    "price": 775,
+    "description": "Элегантный дизайн и поддержка стилуса.",
+    "images": [
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_1b__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_2__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_3__ce-ww.jpg/f_auto",
+      "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/i/p/iphone_16_pro_max_black_titanium_pdp_image_position_5__ce-ww.jpg/f_auto"
+    ]
+  }
+]
