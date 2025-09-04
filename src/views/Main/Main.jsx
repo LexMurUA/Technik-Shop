@@ -29,8 +29,8 @@ const perProducts = data.slice(firstIndex,lastIndex)
             isInCart={cart.some((item) => item.code === product.code)}
           />
         ))}
-        <Pagination />
       </section>
+      <Pagination />
     </main>
   );
 }

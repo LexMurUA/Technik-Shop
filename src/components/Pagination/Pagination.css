@@ -1,0 +1,12 @@
+.pagination{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pages{
+  display: flex;
+  gap: 5px;
+}
+.active{
+  background-color: red;
+}

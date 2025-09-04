@@ -1,8 +1,10 @@
+import "./Pagination.css";
+
 import { useAppContext } from "../../context/AppContext";
 import data from "../../data/data.json";
 
 export const Pagination = () => {
-  const { perPage, setCurrentPage, showNumPage } = useAppContext();
+  const { perPage, showNumPage, backwardPage, forwardPage,currentPage } = useAppContext();
 
   const pagesQuantity = Math.ceil(data.length / perPage);
   const pagesQuantityList = [];
@@ -10,18 +12,38 @@ export const Pagination = () => {
   for (let index = 1; index <= pagesQuantity; index++) {
     pagesQuantityList.push(index);
   }
-  console.log(pagesQuantityList);
+  
 
   return (
-    <div>
-      {pagesQuantityList.map((page, idx) => (
-        <div key={idx}>
-          <button onClick={() => showNumPage(page)}>{page}</button>
-        </div>
-      ))}
+    <div className="pagination">
+      <div className="pages">
+        {pagesQuantityList.map((page, idx) =>
+        
+            <div className="page-current" key={idx}>
+              {page===currentPage ?(
+                 <button
+                className={page === currentPage && "active"}
+                onClick={() => showNumPage(page)}>{page}</button>
+              ): '...' }
+             
+            </div>
 
-      <button>Назад</button>
-      <button>Вперед</button>
+
+
+         
+        )}
+      </div>
+      <div className="btns">
+        <button disabled={currentPage === 1} onClick={backwardPage}>
+          Назад
+        </button>
+        <button
+          disabled={currentPage === pagesQuantityList.length}
+          onClick={forwardPage}
+        >
+          Вперед
+        </button>
+      </div>
     </div>
   );
 };
